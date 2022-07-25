@@ -9,7 +9,7 @@ Django REST framework project that demonstrate the work of cinema service
 
 ```shell
 git clone https://github.com/YuriiKindrat/cinema_serivice_api
-cd taxi_service
+cd cinema_service_api
 python3 -m venv venv
 venv/Scripts/activate
 pip install -r requirments.txt
